@@ -15,7 +15,7 @@ Libraries will come here
 
 ### Part1:
 ```
-Details will come here
+Details will come here canny edge detection
 ```
 ### Part2: 
 ```
